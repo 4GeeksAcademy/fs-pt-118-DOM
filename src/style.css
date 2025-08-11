@@ -3,3 +3,17 @@
 body{
     background: white;
 }
+
+
+.miSuperClase{
+    padding: 80px;
+    border: 50px solid red;
+}
+
+.hidden {
+    display: none;
+}
+
+.show {
+    display: block;
+}
