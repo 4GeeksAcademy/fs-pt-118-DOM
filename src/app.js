@@ -120,6 +120,8 @@ btnSusto.addEventListener('click', malaLecheLogger)
 
 
 
+//juego de las lineas aqui!
+
 let total = 0
 const top = document.querySelector('#top')
 const middle = document.querySelector('#middle')
@@ -141,7 +143,7 @@ middle.addEventListener('mouseover', () => {
   score.innerText = total
 })
 
-
+//se acabo juego de las lineas!!!
 
 
 let arr = [{ id: 1, name: 'pepe' }, { id: 2, name: 'lola' }, { id: 3, name: 'maria' }, { id: 4, name: 'matia' }]
